@@ -18,7 +18,6 @@
 </p>
 
 <!-- /siso-os:header -->
-
 Jev is an optional, conservative second opinion for an agent. It helps check
 intent, completion evidence, progress, route or skill selection, bounded Camofox
 navigation, and shadow context relevance. It does not run the task, grant
